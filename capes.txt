@@ -1,4 +1,3 @@
-s
-Skyblock_Lobby
 CosmicTrig
 Niclasjunior
+Skyblock_Lobby
